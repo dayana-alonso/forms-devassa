@@ -1,0 +1,45 @@
+/*SPACING*/
+
+.ml-40 {
+	margin-left: 40px;
+}
+
+.ml-20 {
+	margin-left: 20px;
+}
+
+.mr-20 {
+	margin-right: 20px;
+}
+
+.mr-50 {
+	margin-right: 50px;
+}
+
+.mb-15 {
+	margin-bottom: 15px;
+}
+
+.mb-20{
+margin:20px;
+}
+
+.pt-50 {
+	padding-top: 50px;
+}
+
+.pb-50 {
+	padding-bottom: 50px;
+}
+
+
+.pt-15{
+	padding top: 15px;
+}
+
+.pb-15{
+	padding-bottom: 15px;
+}
+}
+
+/*END SPACING*/

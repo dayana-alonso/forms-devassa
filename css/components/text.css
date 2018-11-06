@@ -1,0 +1,13 @@
+.small-text {
+	color: #fff !important;
+	font-style: bold;
+	font-family: "Verdana", sans-serif; 
+	font-size:34px;
+}
+
+.mailing-text{
+	color: #fff;
+	font-style: bold;
+	font-family: "Verdana", sans-serif; 
+	font-size:13px;
+}

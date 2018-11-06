@@ -1,0 +1,53 @@
+.box {
+	border: 1px red dotted;
+}
+
+body{ 
+font-family: "Verdana", sans-serif;
+}
+
+/*RESET*/
+body, ul, h1, h2, h3, h4, h5, h6,p {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul{
+	list-style:none;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav a {
+	color: #fff;
+}
+
+form-control {
+padding:none;
+margin: none;
+}
+
+/*END RESET*/
+
+.main-nav {
+	border-bottom: 1px #e1e1e1 solid;
+	padding: 8px 0px;
+}
+
+.box {
+	border: 1px red dotted;
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer {
+	position: absolute;
+	width: 100%;
+	bottom:0px;
+	font-size: 12px;
+}

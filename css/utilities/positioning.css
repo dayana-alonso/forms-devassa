@@ -1,0 +1,41 @@
+/*POSITIONING*/
+
+.centered {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}
+
+.clear-float::after {
+	display: block;
+	content:"";
+	clear:both;
+}
+
+.center-text{
+	text-align: center;
+}
+
+.address-text{
+	max-width: 250px;
+	font-size: 13px;
+}
+
+.footer{
+	position: absolute;
+	width: 100%;
+	bottom:0px;
+	font-size: 12px
+}
+
+.form-control{
+	box-sizing: border-box;
+}
+/*END POSITIONING*/
